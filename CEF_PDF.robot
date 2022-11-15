@@ -71,7 +71,7 @@
         <property name="comment">
           <null/>
         </property>
-        <property name="enabled" idref="2"/>
+        <property name="enabled" idref="1"/>
         <property name="changedProperties" class="java.util.HashSet" id="7"/>
       </object>
       <object class="Transition" serializationversion="3" id="8">
